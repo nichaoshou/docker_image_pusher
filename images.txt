@@ -1,5 +1,4 @@
 redis
-java:openjdk-8
 minio
 nginx
 rancher/rancher
