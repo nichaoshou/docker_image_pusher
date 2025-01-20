@@ -1,5 +1,6 @@
 redis
 java:openjdk-8
+minio
 rancher/rancher
 #支持私库
 stirlingtools/stirling-pdf
