@@ -1,5 +1,7 @@
 nginx
 redis
+minio
+java:openjdk-8
 rancher/rancher
 #支持私库
 stirlingtools/stirling-pdf
