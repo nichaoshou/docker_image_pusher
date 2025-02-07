@@ -1,6 +1,7 @@
 redis
 nginx
 rancher/rancher
+rancher/rancher:v2.4.17
 #支持私库
 stirlingtools/stirling-pdf
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
