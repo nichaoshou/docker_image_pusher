@@ -2,6 +2,7 @@ redis
 nginx
 rancher/rancher
 rancher/rancher:v2.4.17
+rancher/rke-tools:v0.1.75
 rancher/rancher-agent:v2.4.17
 #支持私库
 stirlingtools/stirling-pdf
